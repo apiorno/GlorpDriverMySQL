@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
 	"super" : "BaselineOf",
-	"category" : "BaselineOfGlorpDriveMySQL",
+	"category" : "BaselineOfGlorpDriverMySQL",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "BaselineOfGlorpDriveMySQL",
+	"name" : "BaselineOfGlorpDriverMySQL",
 	"type" : "normal"
 }
