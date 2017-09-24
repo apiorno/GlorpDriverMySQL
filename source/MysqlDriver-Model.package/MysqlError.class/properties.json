@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "MysqlResult",
+	"category" : "MysqlDriver-Model-Packet",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fieldCount",
+		"errNo",
+		"sqlStateMarker",
+		"sqlState",
+		"message"
+	],
+	"name" : "MysqlError",
+	"type" : "normal"
+}

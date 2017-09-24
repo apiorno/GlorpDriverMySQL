@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "MysqlResult",
+	"category" : "MysqlDriver-Model-Packet",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"message",
+		"fieldCount",
+		"affectedRows",
+		"insertId",
+		"warningCount",
+		"serverStatus"
+	],
+	"name" : "MysqlOkay",
+	"type" : "normal"
+}

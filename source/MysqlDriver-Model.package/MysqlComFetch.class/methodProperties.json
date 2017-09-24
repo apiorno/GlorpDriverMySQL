@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"readResult" : "GuillermoPolito 1/21/2015 17:40",
+		"readResponse" : "ah 9/12/2011 22:44",
+		"readOneRow:" : "ah 9/17/2011 23:50",
+		"mapResultsToNativeTypes:" : "ah 9/12/2011 21:51",
+		"initialize" : "ah 9/12/2011 22:10",
+		"readEof" : "ah 9/12/2011 21:49",
+		"commandArg" : "ah 9/12/2011 21:54",
+		"commandCode" : "ah 9/12/2011 22:10",
+		"numRows:" : "ah 9/12/2011 21:55",
+		"statementId:" : "ah 9/12/2011 21:49",
+		"gotEof" : "ah 9/12/2011 21:49",
+		"readRowData:" : "ah 9/12/2011 21:49",
+		"resultSetContext:" : "ah 9/12/2011 22:03"
+	},
+	"class" : { }
+}

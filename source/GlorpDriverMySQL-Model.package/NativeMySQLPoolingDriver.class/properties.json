@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "NativeMySQLDriver",
+	"category" : "GlorpDriverMySQL-Model-GlorpDriverMySQL-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"SelmaPools"
+	],
+	"instvars" : [
+		"isInTransaction",
+		"loginCredentials",
+		"logging"
+	],
+	"name" : "NativeMySQLPoolingDriver",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MysqlDriver-Model-Driver",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"netSession",
+		"handshakeInfo"
+	],
+	"name" : "MysqlDriver",
+	"type" : "normal"
+}

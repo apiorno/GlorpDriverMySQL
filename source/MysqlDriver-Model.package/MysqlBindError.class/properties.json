@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MysqlDriverError",
+	"category" : "MysqlDriver-Model-Exception",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MysqlBindError",
+	"type" : "normal"
+}

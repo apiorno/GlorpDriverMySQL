@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "MysqlDriver-Tests-Integ",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"session",
+		"ioStream",
+		"maxLen"
+	],
+	"name" : "MysqlNetSessionTest",
+	"type" : "normal"
+}

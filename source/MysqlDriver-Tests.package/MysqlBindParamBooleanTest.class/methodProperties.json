@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"testParamStoreBinaryBoolean" : "ah 5/11/2011 23:28",
+		"storeBinary" : "ah 5/11/2011 23:20",
+		"setUp" : "ah 5/11/2011 23:21",
+		"testParamBoolean" : "ah 5/11/2011 23:24"
+	},
+	"class" : { }
+}

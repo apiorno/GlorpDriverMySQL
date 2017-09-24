@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"getDriverSpecFromLogin:" : "MerwanOuddane 2/8/2015 10:30",
+		"connectionClass" : "MerwanOuddane 2/8/2015 10:35",
+		"prepare:" : "MerwanOuddane 2/8/2015 10:32",
+		"query:" : "FranckWarlouzet 2/9/2015 14:35",
+		"connect:" : "MerwanOuddane 2/8/2015 10:34",
+		"isConnected" : "MerwanOuddane 2/8/2015 10:35",
+		"beginTransaction" : "FranckWarlouzet 2/9/2015 14:31",
+		"commitTransaction" : "FranckWarlouzet 2/9/2015 14:35",
+		"rollbackTransaction" : "FranckWarlouzet 2/9/2015 14:35",
+		"basicExecuteSQLString:" : "Alvaro 9/24/2017 03:15",
+		"logout" : "MerwanOuddane 2/8/2015 10:35"
+	},
+	"class" : {
+		"beGlorpDefaultDriver" : "MerwanOuddane 2/8/2015 10:43"
+	}
+}

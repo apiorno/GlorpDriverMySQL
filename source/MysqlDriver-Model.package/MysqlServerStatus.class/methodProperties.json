@@ -1,0 +1,13 @@
+{
+	"instance" : { },
+	"class" : {
+		"statusAutoCommit" : "ah 6/9/2011 23:03",
+		"initialize" : "GuillermoPolito 1/23/2015 12:04",
+		"statusLastRowSent" : "ah 8/23/2011 01:49",
+		"statusCursorExists" : "ah 8/23/2011 01:49",
+		"statusInTransaction" : "ah 6/9/2011 23:03",
+		"initFlags" : "ah 6/9/2011 22:50",
+		"statusNoIndexUsed" : "ah 6/9/2011 23:03",
+		"moreResultsExist" : "ah 6/9/2011 23:14"
+	}
+}

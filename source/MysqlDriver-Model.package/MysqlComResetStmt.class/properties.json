@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MysqlComBase",
+	"category" : "MysqlDriver-Model-Command",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"statementId"
+	],
+	"name" : "MysqlComResetStmt",
+	"type" : "normal"
+}

@@ -1,0 +1,31 @@
+{
+	"instance" : {
+		"connect:" : "MerwanOuddane 1/23/2015 16:04",
+		"logging:" : "MerwanOuddane 1/23/2015 16:04",
+		"initialize" : "MerwanOuddane 1/23/2015 16:04",
+		"basicExecuteSQLString:" : "MerwanOuddane 1/23/2015 16:04",
+		"isConnected" : "MerwanOuddane 1/23/2015 16:04",
+		"rollbackTransaction" : "MerwanOuddane 1/23/2015 16:05",
+		"acquireConnection" : "MerwanOuddane 1/23/2015 16:04",
+		"withConnectionDo:" : "Alvaro 9/24/2017 03:17",
+		"beginTransaction" : "MerwanOuddane 1/23/2015 16:04",
+		"isInTransaction" : "MerwanOuddane 1/23/2015 16:04",
+		"log:" : "MerwanOuddane 1/23/2015 16:04",
+		"logging" : "MerwanOuddane 1/23/2015 16:04",
+		"releaseConnection" : "MerwanOuddane 1/23/2015 16:05",
+		"connectionPool" : "MerwanOuddane 1/23/2015 16:04",
+		"commitTransaction" : "MerwanOuddane 1/23/2015 16:04",
+		"loginCredentials:" : "MerwanOuddane 1/23/2015 16:05",
+		"loginCredentials" : "MerwanOuddane 1/23/2015 16:04",
+		"logout" : "MerwanOuddane 1/23/2015 16:05",
+		"printOn:" : "Alvaro 9/24/2017 03:16",
+		"acquireConnectionIfError:" : "MerwanOuddane 1/23/2015 16:04"
+	},
+	"class" : {
+		"nativeConnectionPool" : "MerwanOuddane 1/26/2015 14:11",
+		"selmaPools:" : "MerwanOuddane 1/23/2015 16:03",
+		"selmaPools" : "MerwanOuddane 1/23/2015 16:03",
+		"resetAllPools" : "MerwanOuddane 1/23/2015 16:03",
+		"poolFor:" : "MerwanOuddane 1/23/2015 16:03"
+	}
+}

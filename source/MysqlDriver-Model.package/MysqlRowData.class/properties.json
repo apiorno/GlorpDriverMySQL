@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MysqlPacket",
+	"category" : "MysqlDriver-Model-Packet",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MysqlRowData",
+	"type" : "normal"
+}

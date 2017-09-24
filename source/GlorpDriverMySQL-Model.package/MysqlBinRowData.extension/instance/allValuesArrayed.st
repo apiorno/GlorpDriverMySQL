@@ -1,0 +1,3 @@
+*GlorpDriverMySQL-Model
+allValuesArrayed
+	^columnValues

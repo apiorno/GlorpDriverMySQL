@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MysqlDriver-Model-Driver",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"host",
+		"port",
+		"user",
+		"password",
+		"database",
+		"options"
+	],
+	"name" : "MysqlDriverSpec",
+	"type" : "normal"
+}

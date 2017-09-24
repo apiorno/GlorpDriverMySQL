@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MysqlDriver-Model-Helper",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"paramValue",
+		"paramType",
+		"newParamBound",
+		"unsignedFlag",
+		"declaredUnsigned",
+		"sentAsLongData"
+	],
+	"name" : "MysqlBindParam",
+	"type" : "normal"
+}

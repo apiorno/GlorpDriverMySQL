@@ -1,0 +1,30 @@
+{
+	"instance" : {
+		"scenarioReadDate" : "ah 6/17/2011 01:55",
+		"testReadTinyInt" : "ah 6/24/2011 23:59",
+		"testReadFloat" : "ah 6/18/2011 10:21",
+		"testReadTimeWithNoDaysButWithTimeAndSubseconds" : "ah 6/25/2011 01:40",
+		"scenarioReadDateTime" : "ah 6/17/2011 01:55",
+		"testReadLongInt" : "ah 6/25/2011 00:17",
+		"testReadTimeWithNegSign" : "ah 6/25/2011 01:50",
+		"testReadDateTimeWithDateFieldsOnly" : "ah 9/24/2011 13:41",
+		"testReadDateIgnoeTimeFields" : "ah 6/17/2011 01:57",
+		"testReadDateTimeWithSubsecondField" : "ah 9/24/2011 13:43",
+		"testReadMediumInt" : "ah 6/25/2011 00:11",
+		"testReadDouble" : "ah 6/18/2011 10:23",
+		"testReadTimeWithDaysAndTime" : "ah 6/25/2011 01:30",
+		"testReadTimeWithZeroDaysOnly" : "ah 9/11/2011 13:30",
+		"testReadVarBlob" : "ah 6/25/2011 15:21",
+		"testReadDateTimeWithDateTimeFields" : "ah 9/24/2011 13:42",
+		"scenarioReadTime" : "ah 6/25/2011 00:21",
+		"testReadTimeWithNoDaysButWithTime" : "ah 6/25/2011 01:36",
+		"testReadTimeZeroHour" : "ah 6/25/2011 01:28",
+		"testReadDecimalWithScale" : "ah 6/18/2011 10:27",
+		"testReadVarString" : "ah 6/18/2011 10:38",
+		"testReadShortInt" : "ah 6/26/2011 17:37",
+		"testReadTimeWithDaysTimeAndSubseconds" : "ah 6/25/2011 01:30",
+		"testReadTimeWithDaysOnly" : "ah 9/11/2011 13:30",
+		"testReadDateWithDateFieldsOnly" : "ah 6/17/2011 01:17"
+	},
+	"class" : { }
+}

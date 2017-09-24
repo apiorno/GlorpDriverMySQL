@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "MysqlPacket",
+	"category" : "MysqlDriver-Model-Packet",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"user",
+		"password",
+		"database",
+		"scrambleBuff",
+		"clientCaps",
+		"charset",
+		"serverCaps",
+		"scrambleBuffMore"
+	],
+	"name" : "MysqlClientAuth",
+	"type" : "normal"
+}

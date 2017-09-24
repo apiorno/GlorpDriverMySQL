@@ -1,0 +1,23 @@
+{
+	"instance" : {
+		"hasLastRowSent" : "ah 9/15/2011 22:43",
+		"hasMoreResults" : "ah 8/23/2011 01:55",
+		"fields:" : "ah 7/26/2009 01:17",
+		"isResultSet" : "ah 2/27/2010 11:08",
+		"fields" : "ah 3/26/2010 17:13",
+		"rows:" : "ah 7/26/2009 01:18",
+		"rowsEof" : "ah 4/8/2010 22:49",
+		"header" : "ah 3/22/2010 23:09",
+		"rows" : "ah 3/26/2010 17:13",
+		"rowsEof:" : "ah 2/8/2010 23:53",
+		"hasOpenCursor" : "ah 8/23/2011 02:28",
+		"header:" : "ah 7/26/2009 01:17",
+		"fieldsEof" : "ah 4/8/2010 22:49",
+		"parse" : "ah 6/4/2011 19:07",
+		"nextRow" : "GuillermoPolito 1/21/2015 17:41",
+		"fieldsEof:" : "ah 2/8/2010 23:54",
+		"serverStatus" : "ah 9/15/2011 22:01",
+		"statement:" : "GuillermoPolito 1/21/2015 17:28"
+	},
+	"class" : { }
+}

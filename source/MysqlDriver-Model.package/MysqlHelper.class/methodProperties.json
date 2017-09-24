@@ -1,0 +1,18 @@
+{
+	"instance" : { },
+	"class" : {
+		"secureScramble:with:" : "GuillermoPolito 5/8/2014 20:09",
+		"bytesFromHexString:" : "ah 7/12/2011 23:50",
+		"encodeLcb:on:" : "ah 9/18/2011 00:19",
+		"randomInitWith:and:" : "ah 4/17/2009 23:18",
+		"decodeLcbFrom:" : "ah 6/1/2011 10:52",
+		"bytesFromSha1Hash:" : "ah 6/16/2009 00:48",
+		"hexStringFromBytes:" : "ah 9/11/2011 12:31",
+		"hash:" : "ah 10/1/2011 19:22",
+		"myRandom" : "ah 10/1/2011 18:57",
+		"decodeLcsFrom:" : "ah 6/1/2011 10:53",
+		"encodeLcs:on:" : "ah 6/1/2011 10:53",
+		"scramble323MessageLimit" : "ah 10/1/2011 21:15",
+		"scramble323:with:" : "ah 10/1/2011 23:19"
+	}
+}

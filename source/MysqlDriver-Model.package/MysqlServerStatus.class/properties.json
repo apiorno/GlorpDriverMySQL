@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MysqlDriver-Model-Helper",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ServerMoreResultsExist",
+		"ServerQueryNoGoodIndexUsed",
+		"ServerQueryNoIndexUsed",
+		"ServerStatusAutoCommit",
+		"ServerStatusCursorExists",
+		"ServerStatusDbDropped",
+		"ServerStatusInTranssaction",
+		"ServerStatusLastRowSent",
+		"ServerStatusNoBackslashEscapes"
+	],
+	"instvars" : [ ],
+	"name" : "MysqlServerStatus",
+	"type" : "normal"
+}

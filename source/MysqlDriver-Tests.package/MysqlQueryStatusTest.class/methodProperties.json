@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"testAutoCommitMode" : "ah 6/9/2011 23:01",
+		"testWarnings" : "MerwanOuddane 1/14/2015 20:54",
+		"testTransactionStatus" : "ah 6/9/2011 23:01",
+		"testInsertId" : "ah 9/10/2011 14:46",
+		"testServerStatus" : "ah 9/10/2011 14:45",
+		"testTransactionModeCommit" : "gk 4/25/2013 08:47",
+		"testAffectedRows" : "ah 9/10/2011 14:46",
+		"testTransactionModeRollback" : "ah 9/10/2011 14:45"
+	},
+	"class" : { }
+}

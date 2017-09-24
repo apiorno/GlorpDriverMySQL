@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "ah 3/13/2010 10:21",
+	"super" : "MysqlPacket",
+	"category" : "MysqlDriver-Model-Packet",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"nextResult"
+	],
+	"name" : "MysqlResult",
+	"type" : "normal"
+}

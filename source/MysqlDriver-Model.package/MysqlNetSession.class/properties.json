@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MysqlDriver-Model-Net",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"theStream",
+		"nextPacketNumber",
+		"peekData"
+	],
+	"name" : "MysqlNetSession",
+	"type" : "normal"
+}

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "MysqlPacket",
+	"category" : "MysqlDriver-Model-Packet",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"warningCount",
+		"numColumns",
+		"numParams",
+		"stmtId"
+	],
+	"name" : "MysqlPrepareOkay",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "MysqlDriver-Tests-Unit",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"theParam"
+	],
+	"name" : "MysqlBindParamStringBlobTest",
+	"type" : "normal"
+}

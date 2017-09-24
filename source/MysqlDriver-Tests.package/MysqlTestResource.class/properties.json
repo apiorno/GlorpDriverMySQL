@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "TestResource",
+	"category" : "MysqlDriver-Tests-Integ",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"conn",
+		"testConn"
+	],
+	"name" : "MysqlTestResource",
+	"type" : "normal"
+}

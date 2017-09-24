@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DatabaseDriver",
+	"category" : "GlorpDriverMySQL-Model-GlorpDriverMySQL-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NativeMySQLDriver",
+	"type" : "normal"
+}

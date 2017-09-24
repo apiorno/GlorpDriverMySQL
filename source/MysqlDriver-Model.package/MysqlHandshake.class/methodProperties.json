@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"supportsProtocol41" : "ah 6/14/2009 22:36",
+		"scrambleBuff" : "ah 6/13/2009 21:43",
+		"serverCaps" : "ah 6/13/2009 10:43",
+		"serverLang" : "ah 4/20/2009 23:28",
+		"scrambleBuffMore" : "ah 6/14/2009 23:54",
+		"parse" : "ah 6/4/2011 17:02",
+		"serverStatus" : "ah 4/20/2009 23:28",
+		"serverVer" : "ah 4/20/2009 23:28"
+	},
+	"class" : { }
+}

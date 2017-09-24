@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"goodConnectionSpec" : "GuillermoPolito 5/8/2014 18:15",
+		"testConnectGood" : "ah 9/30/2011 22:28",
+		"tearDown" : "ah 3/2/2010 22:13",
+		"testDisconnect" : "ah 3/2/2010 22:17",
+		"testConnectWithDb" : "GuillermoPolito 5/5/2015 10:23",
+		"testHostLookupError" : "ah 10/23/2010 00:42",
+		"invalidHostNameConnectionSpec" : "ah 9/30/2011 22:00",
+		"testConnectAssorted" : "ah 9/22/2011 00:51",
+		"testConnectBad" : "ah 3/2/2010 22:13",
+		"badConnectionSpec" : "ah 7/15/2009 23:58",
+		"setUp" : "ah 5/1/2010 20:11"
+	},
+	"class" : { }
+}

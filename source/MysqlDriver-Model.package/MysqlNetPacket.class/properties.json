@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MysqlDriver-Model-Net",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"MaxPacketLength"
+	],
+	"instvars" : [
+		"length",
+		"number",
+		"data"
+	],
+	"name" : "MysqlNetPacket",
+	"type" : "normal"
+}

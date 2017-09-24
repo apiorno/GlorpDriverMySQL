@@ -1,0 +1,33 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MysqlDriver-Model-Command",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ComChangeUser",
+		"ComCreateDb",
+		"ComDebug",
+		"ComDropDb",
+		"ComFieldList",
+		"ComInitDb",
+		"ComPing",
+		"ComQuery",
+		"ComQuit",
+		"ComSetOption",
+		"ComSleep",
+		"ComStat",
+		"ComStmtClose",
+		"ComStmtExecute",
+		"ComStmtFetch",
+		"ComStmtPrepare",
+		"ComStmtReset",
+		"ComStmtSendLongData"
+	],
+	"instvars" : [
+		"session",
+		"errorDict"
+	],
+	"name" : "MysqlComBase",
+	"type" : "normal"
+}

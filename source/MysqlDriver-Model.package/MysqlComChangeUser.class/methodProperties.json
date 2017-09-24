@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"send323Scramble" : "ah 10/1/2011 22:43",
+		"user:" : "ah 11/25/2009 23:56",
+		"database:" : "ah 11/25/2009 23:58",
+		"charset:" : "ah 11/26/2009 00:21",
+		"readResponse" : "ah 10/1/2011 23:15",
+		"scrambleBuff:" : "ah 10/1/2011 22:43",
+		"commandArg" : "ah 10/1/2011 22:55",
+		"commandCode" : "ah 11/26/2009 00:38",
+		"password:" : "ah 11/25/2009 23:56",
+		"scrambledPassword:" : "ah 10/1/2011 22:54"
+	},
+	"class" : { }
+}

@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"testNoError" : "ah 9/18/2011 00:11",
+		"testErrorAtEnd" : "ah 9/18/2011 00:11",
+		"testErrorAtMiddle" : "ah 9/18/2011 00:11",
+		"testErrorAtFirst" : "ah 9/18/2011 00:08"
+	},
+	"class" : { }
+}

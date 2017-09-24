@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"testParamStoreBinaryString" : "ah 5/12/2011 09:17",
+		"testParamSymbol" : "ah 8/31/2011 22:19",
+		"testParamStoreBinaryCharacter" : "ah 5/12/2011 00:03",
+		"testParamStoreBinaryText" : "ah 5/12/2011 00:09",
+		"testParamBlob" : "ah 5/12/2011 08:48",
+		"testParamString" : "ah 8/31/2011 22:18",
+		"testParamCharacter" : "ah 5/11/2011 23:45",
+		"storeBinary" : "ah 5/11/2011 23:43",
+		"testParamText" : "ah 8/31/2011 22:22",
+		"testParamStoreBinarySymbol" : "ah 5/12/2011 00:01",
+		"setUp" : "ah 5/11/2011 23:43"
+	},
+	"class" : { }
+}

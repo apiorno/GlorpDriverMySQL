@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "MysqlDriver-Tests-Integ",
+	"classinstvars" : [
+		"protocol"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"connector"
+	],
+	"name" : "MysqlDriverTest",
+	"type" : "normal"
+}

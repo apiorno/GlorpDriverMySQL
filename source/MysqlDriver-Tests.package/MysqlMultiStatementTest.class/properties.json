@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "ah 3/6/2010 17:21",
+	"super" : "MysqlTestCase",
+	"category" : "MysqlDriver-Tests-Integ",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MysqlMultiStatementTest",
+	"type" : "normal"
+}

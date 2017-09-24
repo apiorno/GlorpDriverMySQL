@@ -1,0 +1,33 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MysqlDriver-Model-Packet",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"CapCompress",
+		"CapConnectWithDb",
+		"CapFoundRows",
+		"CapIgnoreSigpipe",
+		"CapIgnoreSpace",
+		"CapInteractive",
+		"CapLocalFiles",
+		"CapLongFlag",
+		"CapLongPassword",
+		"CapMultiResults",
+		"CapMultiStatements",
+		"CapNoSchema",
+		"CapOdbc",
+		"CapProtocol41",
+		"CapReserved",
+		"CapSecureConnection",
+		"CapSsl",
+		"CapTransactions"
+	],
+	"instvars" : [
+		"inStream",
+		"discriminator"
+	],
+	"name" : "MysqlPacket",
+	"type" : "normal"
+}

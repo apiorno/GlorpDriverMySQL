@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MysqlComBase",
+	"category" : "MysqlDriver-Model-Command",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MysqlComQuit",
+	"type" : "normal"
+}

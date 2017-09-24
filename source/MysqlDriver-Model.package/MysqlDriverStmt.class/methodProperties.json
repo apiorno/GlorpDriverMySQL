@@ -1,0 +1,23 @@
+{
+	"instance" : {
+		"fetchSize:" : "GuillermoPolito 1/21/2015 17:34",
+		"close" : "ah 9/14/2011 07:26",
+		"cursoredFetch:" : "ah 9/15/2011 22:09",
+		"params:" : "ah 9/14/2011 07:20",
+		"sendLongData" : "ah 9/25/2011 11:12",
+		"typeMapResults:" : "ah 9/14/2011 07:13",
+		"stmtId:" : "ah 9/14/2011 07:16",
+		"execute" : "GuillermoPolito 1/21/2015 17:27",
+		"initialize" : "GuillermoPolito 1/21/2015 11:54",
+		"fetchRows:" : "ah 9/14/2011 07:32",
+		"driver:" : "ah 9/14/2011 07:48",
+		"cursoredFetch" : "ah 9/15/2011 22:09",
+		"fetchSize" : "GuillermoPolito 1/21/2015 17:35",
+		"resetStmt" : "ah 9/14/2011 22:56",
+		"addBinding:" : "GuillermoPolito 1/21/2015 11:57",
+		"sendLongParam:withNum:" : "gk 4/30/2013 11:14"
+	},
+	"class" : {
+		"onConnection:" : "ah 9/14/2011 07:10"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"testNullBitMapMajorityNull" : "ah 9/18/2011 01:09",
+		"testNullBitMapSomeNull" : "ah 9/18/2011 01:07",
+		"testNullBitMap" : "ah 9/18/2011 01:06",
+		"testNullBitMapAllNull" : "ah 9/18/2011 01:04",
+		"testNullBitMapAllButFirstAndLastNull" : "ah 6/10/2011 17:19"
+	},
+	"class" : { }
+}

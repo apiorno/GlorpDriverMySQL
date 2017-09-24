@@ -1,0 +1,3 @@
+connection-pooling
+isConnected
+	^ true

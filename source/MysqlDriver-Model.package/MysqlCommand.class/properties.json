@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MysqlPacket",
+	"category" : "MysqlDriver-Model-Packet",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"command",
+		"arg"
+	],
+	"name" : "MysqlCommand",
+	"type" : "normal"
+}

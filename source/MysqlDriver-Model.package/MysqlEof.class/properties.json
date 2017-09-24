@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MysqlPacket",
+	"category" : "MysqlDriver-Model-Packet",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fieldCount",
+		"warningCount",
+		"serverStatus"
+	],
+	"name" : "MysqlEof",
+	"type" : "normal"
+}

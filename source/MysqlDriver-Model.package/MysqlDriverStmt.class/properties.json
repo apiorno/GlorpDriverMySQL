@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MysqlDriver-Model-Driver",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"driver",
+		"typeMapResults",
+		"stmtId",
+		"params",
+		"rsContext",
+		"cursoredFetch",
+		"fetchSize"
+	],
+	"name" : "MysqlDriverStmt",
+	"type" : "normal"
+}

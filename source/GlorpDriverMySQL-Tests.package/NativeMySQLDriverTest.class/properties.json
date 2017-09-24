@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "GlorpMainBackendTest",
+	"category" : "GlorpDriverMySQL-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"connection"
+	],
+	"name" : "NativeMySQLDriverTest",
+	"type" : "normal"
+}
