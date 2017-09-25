@@ -1,4 +1,4 @@
-as yet unclassified
+Converting
 bytesFromSha1Hash: num 
 
 	| index bytes |

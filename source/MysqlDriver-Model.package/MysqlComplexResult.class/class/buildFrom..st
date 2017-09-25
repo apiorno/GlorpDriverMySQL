@@ -1,4 +1,4 @@
-as yet unclassified
+Instance Creation
 buildFrom: aSession
 	^ self subclassResponsibility 
 	

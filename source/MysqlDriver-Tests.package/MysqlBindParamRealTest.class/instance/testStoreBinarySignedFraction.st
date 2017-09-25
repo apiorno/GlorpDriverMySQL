@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testStoreBinarySignedFraction
 	theParam bindValue: -17/4.
 	ByteArray streamContents: [:strm | 

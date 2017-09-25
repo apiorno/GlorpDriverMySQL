@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testByteNonBoundariesAtEnd
 	row nullBitMap: #(16r78 16r7E 16r7E 16r7E).
 	self deny: (row isColumnNullAt: 23) description: 'Column 23 should not be null'.

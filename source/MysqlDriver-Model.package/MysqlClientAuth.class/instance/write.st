@@ -1,4 +1,4 @@
-accessing
+Writing
 write
 	| flags scrmbl buffStream maxNetPacketLength |
 	buffStream := WriteStream on: (ByteArray new: 1024).

@@ -1,4 +1,4 @@
-as yet unclassified
+Accessing
 testConnection
 	"Returns a connection to be used for the testXyz methods. 
 	Not to be confused with the internal connection instance 

@@ -1,3 +1,3 @@
-as yet unclassified
+Initialization
 setUp
 	connector := MysqlDriver new

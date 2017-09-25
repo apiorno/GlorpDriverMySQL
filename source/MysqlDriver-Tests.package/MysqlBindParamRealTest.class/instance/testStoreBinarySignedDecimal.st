@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testStoreBinarySignedDecimal
 	theParam bindValue: -12345.678901s6.
 	ByteArray streamContents: [:strm | 

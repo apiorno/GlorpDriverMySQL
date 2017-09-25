@@ -1,3 +1,3 @@
-as yet unclassified
+Writing
 write
 	self subclassResponsibility 

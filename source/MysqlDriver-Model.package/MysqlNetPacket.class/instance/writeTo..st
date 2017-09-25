@@ -1,4 +1,4 @@
-writing
+Writing
 writeTo: aStream
 	length = data size ifFalse: [self error: 'Mismatch between packet length and data size'].
 

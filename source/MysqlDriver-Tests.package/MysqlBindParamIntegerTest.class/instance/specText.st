@@ -1,4 +1,4 @@
-as yet unclassified
+Test Support
 specText
 	"
 	Binding an integer in range -128 to 255

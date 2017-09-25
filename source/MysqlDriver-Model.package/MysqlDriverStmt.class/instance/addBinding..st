@@ -1,4 +1,4 @@
-as yet unclassified
+Binding
 addBinding: anObject
 	
 	params add: (MysqlBindParam new bindValue: anObject)

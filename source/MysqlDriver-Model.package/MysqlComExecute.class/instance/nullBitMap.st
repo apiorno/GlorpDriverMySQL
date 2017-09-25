@@ -1,4 +1,4 @@
-as yet unclassified
+Accessing
 nullBitMap
 	| nullBitMap mapByte byteIndex bitMask |
 	nullBitMap := ByteArray new: (params size + 7) // 8.

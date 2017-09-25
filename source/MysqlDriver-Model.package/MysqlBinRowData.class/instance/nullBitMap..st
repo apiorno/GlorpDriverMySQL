@@ -1,4 +1,4 @@
-as yet unclassified
+Accessing
 nullBitMap: byteArray "primarily for testing"
 	nullBitMap := byteArray 
 	

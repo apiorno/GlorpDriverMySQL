@@ -1,4 +1,4 @@
-as yet unclassified
+Accessing
 params: inParams
 	params := inParams.
 	

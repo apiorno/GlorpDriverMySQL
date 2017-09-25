@@ -1,4 +1,4 @@
-as yet unclassified
+Accessing
 atIndex: indx
 	self subclassResponsibility
 	

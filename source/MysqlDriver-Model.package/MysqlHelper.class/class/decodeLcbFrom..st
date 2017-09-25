@@ -1,4 +1,4 @@
-as yet unclassified
+Converting
 decodeLcbFrom: byteStream 
 	"parse length coded binary"
 	| first |

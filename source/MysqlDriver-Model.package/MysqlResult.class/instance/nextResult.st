@@ -1,3 +1,3 @@
-as yet unclassified
+Accessing
 nextResult
 	^ nextResult 

@@ -1,4 +1,4 @@
-as yet unclassified
+Test Support
 storeBinary
 	ByteArray streamContents: [:strm | 
 		theParam storeBinaryOn: strm.

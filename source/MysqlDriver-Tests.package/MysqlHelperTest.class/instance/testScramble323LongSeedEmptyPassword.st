@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testScramble323LongSeedEmptyPassword
 	self assert: '' = 
 		(MysqlHelper hexStringFromBytes: ( 

@@ -1,4 +1,4 @@
-glorp-API
+Glorp-API
 basicExecuteSQLString: aString
 	| preparedRequest result rows emptyStream |
 	emptyStream := ReadStream on: Array new.

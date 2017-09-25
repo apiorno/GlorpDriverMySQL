@@ -1,4 +1,4 @@
-as yet unclassified
+Actions
 createTestDb
 	| resp |
 	resp := conn query: 'create database if not exists ', self class dbName, ' DEFAULT CHARACTER SET latin1'.

@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testStoreBinaryBigInt
 	theParam bindValue: -16r8000000000000000.
 	self assert: (self storeBinary hasEqualElements: 

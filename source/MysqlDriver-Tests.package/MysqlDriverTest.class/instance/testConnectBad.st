@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testConnectBad
 	| connSpec |
 	connSpec := self badConnectionSpec .

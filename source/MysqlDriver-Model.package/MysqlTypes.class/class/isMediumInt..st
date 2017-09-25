@@ -1,4 +1,4 @@
-as yet unclassified
+Testing
 isMediumInt: type
 	^ type = TypeINT24
 	

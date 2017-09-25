@@ -1,4 +1,4 @@
-maintenance
+Executing
 reset
 	"Removes and closes any connections in the pool"
 	|connection|

@@ -1,4 +1,4 @@
-as yet unclassified
+Accessing
 paramEof: anEof
 	paramEof := anEof 
 	

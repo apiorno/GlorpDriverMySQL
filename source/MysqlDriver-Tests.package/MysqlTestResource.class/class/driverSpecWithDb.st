@@ -1,4 +1,4 @@
-as yet unclassified
+Accessing
 driverSpecWithDb
 	^ self driverSpecNoDb
 		db: self dbName;

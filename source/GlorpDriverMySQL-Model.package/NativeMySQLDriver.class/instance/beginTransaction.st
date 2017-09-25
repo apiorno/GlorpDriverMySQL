@@ -1,4 +1,4 @@
-glorp-API
+Glorp-API
 beginTransaction
 
 	self query: 'START TRANSACTION'

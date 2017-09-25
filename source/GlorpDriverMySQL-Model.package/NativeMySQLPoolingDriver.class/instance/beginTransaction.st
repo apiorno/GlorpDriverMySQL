@@ -1,4 +1,4 @@
-transactions
+Transactions
 beginTransaction
 	isInTransaction := true.
 	connection ifNil:[

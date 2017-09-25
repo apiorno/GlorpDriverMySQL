@@ -1,4 +1,4 @@
-api
+Api
 addConnection: aConnection 
 	(aConnection notNil and: [aConnection isConnected])
 	ifTrue: [

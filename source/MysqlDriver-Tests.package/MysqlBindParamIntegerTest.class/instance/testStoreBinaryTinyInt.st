@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testStoreBinaryTinyInt
 	theParam bindValue: -128.
 	self assert: (self storeBinary hasEqualElements: (ByteArray with: 16r80)).

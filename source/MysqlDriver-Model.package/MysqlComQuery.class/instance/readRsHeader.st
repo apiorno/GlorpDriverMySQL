@@ -1,4 +1,4 @@
-as yet unclassified
+Reading
 readRsHeader
 	^ MysqlResultSetHeader from: session read
 	

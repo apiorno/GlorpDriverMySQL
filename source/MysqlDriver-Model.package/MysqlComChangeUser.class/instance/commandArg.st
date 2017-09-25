@@ -1,4 +1,4 @@
-as yet unclassified
+Accessing
 commandArg
 	| buffStream |
 	buffStream := WriteStream on: ByteArray new.

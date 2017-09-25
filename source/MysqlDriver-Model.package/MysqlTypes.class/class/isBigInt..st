@@ -1,4 +1,4 @@
-as yet unclassified
+Testing
 isBigInt: type
 	^ type = TypeLONGLONG
 	

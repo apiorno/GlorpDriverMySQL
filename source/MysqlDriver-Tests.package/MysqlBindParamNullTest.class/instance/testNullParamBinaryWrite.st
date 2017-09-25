@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testNullParamBinaryWrite
 	"binding a nil param
 		- should produce an empty string in binary protocol"

@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testConnectWithDb
 	| connSpec resp |
 	connSpec := self goodConnectionSpec.

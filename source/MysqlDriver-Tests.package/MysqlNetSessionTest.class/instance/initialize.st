@@ -1,3 +1,3 @@
-as yet unclassified
+Initialization
 initialize
 	maxLen := MysqlNetPacket maxLength.

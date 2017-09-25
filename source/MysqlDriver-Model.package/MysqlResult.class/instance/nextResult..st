@@ -1,4 +1,4 @@
-as yet unclassified
+Accessing
 nextResult: aResult
 	nextResult := aResult 
 	

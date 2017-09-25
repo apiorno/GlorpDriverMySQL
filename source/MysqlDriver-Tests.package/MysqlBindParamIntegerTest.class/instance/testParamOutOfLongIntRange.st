@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamOutOfLongIntRange
 	theParam bindValue: -16r80000001.
 	self deny: (theParam paramType = MysqlTypes typeLONG).

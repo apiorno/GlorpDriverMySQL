@@ -1,4 +1,4 @@
-as yet unclassified
+Reading
 read: buffer
 	discriminator := buffer first.
 	inStream := ReadStream on: buffer.

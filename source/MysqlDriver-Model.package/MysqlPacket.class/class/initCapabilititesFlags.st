@@ -1,4 +1,4 @@
-as yet unclassified
+Initialization
 initCapabilititesFlags
 	CapLongPassword := 1.
 	CapFoundRows := 1 bitShift: 1.

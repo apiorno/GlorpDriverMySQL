@@ -1,4 +1,4 @@
-reading
+Reading
 readPacketData
 	"Read all packets until there is no more packets of data."
 	| dataPackets pkt totalSize buffer ii |

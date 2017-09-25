@@ -1,4 +1,4 @@
-logging
+Logging
 log: aStringOrBlock
 	"Log an arbitrary string"
 	| string |

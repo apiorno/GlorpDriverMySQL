@@ -1,3 +1,3 @@
-as yet unclassified
+Accessing
 scrambleBuff: buffer
 	scrambleBuff := buffer.

@@ -1,4 +1,4 @@
-accessing
+Accessing
 prepare: queryString
 	| prepStmt prepResp |
 

@@ -1,4 +1,4 @@
-as yet unclassified
+Initialization
 initFlags
 	ServerStatusInTranssaction := 1. 		"transaction has started"
 	ServerStatusAutoCommit := 2. 		"in autocommit mode"

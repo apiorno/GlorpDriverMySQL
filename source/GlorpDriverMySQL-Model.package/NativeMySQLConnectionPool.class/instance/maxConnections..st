@@ -1,3 +1,3 @@
-accessing
+Accessing
 maxConnections: anObject
 	maxConnections := anObject

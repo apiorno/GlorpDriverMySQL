@@ -1,4 +1,4 @@
-as yet unclassified
+Parsing
 parse
 	| col |
 	header := inStream next.	"always 0"

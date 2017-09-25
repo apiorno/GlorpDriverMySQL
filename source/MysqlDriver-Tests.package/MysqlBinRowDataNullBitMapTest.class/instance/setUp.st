@@ -1,4 +1,4 @@
-as yet unclassified
+Initialization
 setUp
 	row := MysqlBinRowData new.
 	

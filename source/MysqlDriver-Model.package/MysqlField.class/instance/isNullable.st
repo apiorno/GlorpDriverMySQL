@@ -1,4 +1,4 @@
-as yet unclassified
+Testing
 isNullable
 	^ (flags bitAnd: NotNullFlag) ~= NotNullFlag  
 	

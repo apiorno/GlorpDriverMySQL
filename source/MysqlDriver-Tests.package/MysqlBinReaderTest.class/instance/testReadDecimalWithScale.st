@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testReadDecimalWithScale
 	| aStream reader |
 	aStream := ReadWriteStream on: ByteArray new.

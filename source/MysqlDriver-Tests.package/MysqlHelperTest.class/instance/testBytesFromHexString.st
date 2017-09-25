@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testBytesFromHexString
 	| bytes |
 	bytes := MysqlHelper bytesFromHexString: '00112233445566778899AABBCCDDEEFF'.

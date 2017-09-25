@@ -1,4 +1,4 @@
-as yet unclassified
+Connection
 disconnecTestConnection
 	testConn ifNotNil:[
 		[testConn disconnect] on: MysqlNoConnectionError do: [:ex |]]

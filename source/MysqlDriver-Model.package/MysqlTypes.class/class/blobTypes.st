@@ -1,4 +1,4 @@
-as yet unclassified
+Accessing
 blobTypes
 	blobTypes ifNil: [
 		blobTypes := Array 

@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testStoreBinaryDateAndTime
 	theParam bindValue: (DateAndTime epoch). "Squeak epoch: 1901-01-01"
 	self assert: (MysqlHelper hexStringFromBytes: self storeBinary) = '046D070101'.

@@ -1,4 +1,4 @@
-as yet unclassified
+Testing
 isAutoIncrement
 	^ (flags bitAnd: AutoIncrFlag) = AutoIncrFlag   
 	

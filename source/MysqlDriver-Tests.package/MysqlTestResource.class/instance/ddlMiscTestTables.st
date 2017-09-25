@@ -1,4 +1,4 @@
-as yet unclassified
+Actions
 ddlMiscTestTables
 	^ #(
 	'create table if not exists nameValue (

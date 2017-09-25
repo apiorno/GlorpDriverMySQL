@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamNull
 	| inParam |
 	inParam := MysqlBindParam new.

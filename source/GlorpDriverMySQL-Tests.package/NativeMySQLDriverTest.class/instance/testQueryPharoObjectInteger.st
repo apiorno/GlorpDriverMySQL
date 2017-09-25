@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testQueryPharoObjectInteger
 	| result |
 	result := connection basicExecuteSQLString: 'select 1' .

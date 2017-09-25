@@ -1,4 +1,4 @@
-as yet unclassified
+Accessing
 integerTypes
 	integerTypes ifNil: [
 		integerTypes := Array 

@@ -1,3 +1,3 @@
-as yet unclassified
+Reading
 readParamDescr
 	^ MysqlField from: session read.

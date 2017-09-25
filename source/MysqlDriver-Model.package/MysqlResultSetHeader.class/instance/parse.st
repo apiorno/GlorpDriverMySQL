@@ -1,4 +1,4 @@
-as yet unclassified
+Parsing
 parse
 	fieldCount := self decodeLcbFrom: inStream.
 	"exrta field may appear for some results (like show column)"

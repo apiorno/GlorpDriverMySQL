@@ -1,4 +1,4 @@
-as yet unclassified
+Testing
 isColumnNullAt: index
 	| byteIndex bitsToShift bitMask |
 	byteIndex := index + 9 // 8.

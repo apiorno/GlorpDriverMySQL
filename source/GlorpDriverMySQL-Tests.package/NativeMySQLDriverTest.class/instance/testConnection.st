@@ -1,3 +1,3 @@
-as yet unclassified
+Tests
 testConnection
 	self assert: connection isConnected

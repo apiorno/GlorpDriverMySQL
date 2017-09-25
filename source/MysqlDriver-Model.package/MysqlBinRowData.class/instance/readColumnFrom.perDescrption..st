@@ -1,4 +1,4 @@
-as yet unclassified
+Reading
 readColumnFrom: aStream perDescrption: columnDescr
 	| reader value mask |
 

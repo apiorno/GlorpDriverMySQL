@@ -1,4 +1,4 @@
-parsing
+Parsing
 parse
 	super parse.
 	columnStrings := columnValues collect: [:each | 

@@ -1,4 +1,4 @@
-connection-pooling
+Connection-Pooling
 withConnectionDo: aBlock
 	connection isNil
 		ifTrue: [ connection := self acquireConnection ].

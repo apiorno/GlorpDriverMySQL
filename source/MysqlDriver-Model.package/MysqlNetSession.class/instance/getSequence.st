@@ -1,3 +1,3 @@
-sequence numbering
+Accessing
 getSequence
 	^ nextPacketNumber 

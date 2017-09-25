@@ -1,4 +1,4 @@
-as yet unclassified
+Accessing
 columnCount: aCount
 	columns := Array new: aCount 
 	

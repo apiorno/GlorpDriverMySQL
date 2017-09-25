@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testHostLookupError
 	| connSpec |
 	connSpec := self invalidHostNameConnectionSpec.

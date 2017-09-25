@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testStoreBinaryTime
 	theParam bindValue: (Time midnight).
 	self assert: (MysqlHelper hexStringFromBytes: self storeBinary) = '00'.

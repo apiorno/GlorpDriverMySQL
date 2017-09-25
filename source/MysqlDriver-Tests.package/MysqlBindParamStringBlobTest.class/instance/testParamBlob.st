@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamBlob
 	theParam bindValue: (ByteArray new: 16rFF withAll: 16rAA).
 	self assert: (theParam detectParamType = MysqlTypes typeTINYBLOB).

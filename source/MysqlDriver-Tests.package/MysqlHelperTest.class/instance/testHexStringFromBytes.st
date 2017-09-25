@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testHexStringFromBytes
 	| bytes str |
 	bytes := ByteArray new: 16.

@@ -1,3 +1,3 @@
-accessing
+Accessing
 queue: anObject 
 	queue := anObject

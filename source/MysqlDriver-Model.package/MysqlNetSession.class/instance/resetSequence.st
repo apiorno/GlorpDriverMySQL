@@ -1,3 +1,3 @@
-sequence numbering
+Accessing
 resetSequence
 	nextPacketNumber := 0

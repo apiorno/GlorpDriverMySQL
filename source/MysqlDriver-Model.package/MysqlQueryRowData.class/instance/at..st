@@ -1,3 +1,3 @@
-as yet unclassified
+Accessing
 at: indx
 	^ self atIndex: indx

@@ -1,4 +1,4 @@
-as yet unclassified
+Testing
 hasMoreResults
 	"Looks like the flag, when set, will be set by the server in both the
 	field eof and rowdata eof packets. We are only using field eof here, since

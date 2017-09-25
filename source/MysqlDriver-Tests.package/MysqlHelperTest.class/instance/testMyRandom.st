@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testMyRandom
 	MysqlHelper randomInitWith: 3252345 and: 7149734.
 	self assert: (MysqlHelper myRandom closeTo: 0.0157456556481734).

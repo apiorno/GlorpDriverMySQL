@@ -1,4 +1,4 @@
-transactions
+Transactions
 rollbackTransaction
 	isInTransaction := false.
 	[super rollbackTransaction] ensure:[self releaseConnection]. 

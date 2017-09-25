@@ -1,4 +1,4 @@
-as yet unclassified
+Reading
 readResult
 	| pkt fieldsEof rows fields rowsEof |
 	pkt := MysqlPacket from: session peek.

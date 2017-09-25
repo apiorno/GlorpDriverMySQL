@@ -1,4 +1,4 @@
-as yet unclassified
+Parsing
 decodeLcsFrom: aStream 
 	^ MysqlHelper decodeLcsFrom: aStream 
 	

@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamStoreBinaryString
 	| value binStrm |
 	theParam bindValue: 'hello'.

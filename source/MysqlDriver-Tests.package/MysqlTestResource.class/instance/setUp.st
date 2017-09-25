@@ -1,4 +1,4 @@
-as yet unclassified
+Initialization
 setUp
 	self 
 		connectToServer;

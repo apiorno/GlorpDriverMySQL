@@ -1,4 +1,4 @@
-as yet unclassified
+Actions
 createAlternativeUser
 	"Creates an aalternative user with the same password as the main test user"
 	| resp |

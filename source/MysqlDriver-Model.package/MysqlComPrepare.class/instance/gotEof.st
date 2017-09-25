@@ -1,4 +1,4 @@
-as yet unclassified
+Testing
 gotEof
 	| resp |
 	resp := MysqlPacket from: session peek.

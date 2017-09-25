@@ -1,4 +1,4 @@
-as yet unclassified
+Executing
 execute
 	| resp cmd |
 	session resetSequence.

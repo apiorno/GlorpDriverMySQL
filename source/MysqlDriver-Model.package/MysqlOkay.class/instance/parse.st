@@ -1,4 +1,4 @@
-as yet unclassified
+Parsing
 parse 
 	fieldCount := self decodeLcbFrom: inStream . "always 0"
 	affectedRows := self decodeLcbFrom: inStream .

@@ -1,4 +1,4 @@
-as yet unclassified
+Initialization
 setUp
 	theParam := MysqlBindParam new
 	

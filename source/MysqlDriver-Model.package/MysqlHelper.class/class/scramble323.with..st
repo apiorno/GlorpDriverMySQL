@@ -1,4 +1,4 @@
-public
+Converting
 scramble323: message with: password 
 	"Scamble the bytestring message with password."
 	"Return a srambled byte string."

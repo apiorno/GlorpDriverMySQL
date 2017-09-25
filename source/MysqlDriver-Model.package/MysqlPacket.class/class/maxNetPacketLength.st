@@ -1,3 +1,3 @@
-as yet unclassified
+Defaults
 maxNetPacketLength
 	^ MysqlNetPacket maxLength

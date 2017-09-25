@@ -1,3 +1,3 @@
-as yet unclassified
+Initialization
 initialize
 	errorDict := Dictionary new

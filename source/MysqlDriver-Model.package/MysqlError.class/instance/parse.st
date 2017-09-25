@@ -1,4 +1,4 @@
-as yet unclassified
+Parsing
 parse
 	fieldCount := inStream next. "always 0xFF"
 	errNo := inStream next + (inStream next bitShift: 8).	

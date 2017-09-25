@@ -1,4 +1,4 @@
-as yet unclassified
+Accessing
 poolFor: aLogin
 	"Get the appropriate connection pool - one per set of logins"
 	^ self selmaPools

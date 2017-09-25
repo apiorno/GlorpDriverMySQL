@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testReadTimeWithNoDaysButWithTime
 	| strm reader |
 

@@ -1,4 +1,4 @@
-as yet unclassified
+Initialization
 initFieldTypes
  	TypeBIT := 16.
  	TypeBLOB := 252.

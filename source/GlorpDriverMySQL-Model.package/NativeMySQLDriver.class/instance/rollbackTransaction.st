@@ -1,4 +1,4 @@
-glorp-API
+Glorp-API
 rollbackTransaction
 
 	self query: 'ROLLBACK'

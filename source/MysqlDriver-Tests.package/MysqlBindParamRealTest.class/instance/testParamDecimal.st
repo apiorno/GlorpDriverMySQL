@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamDecimal
 	theParam bindValue: 12345.678901s6.
 	self assert: theParam paramType = MysqlTypes typeDECIMAL.

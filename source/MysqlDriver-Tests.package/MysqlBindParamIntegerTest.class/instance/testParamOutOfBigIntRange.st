@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamOutOfBigIntRange
 	self should: [theParam bindValue: -16r8000000000000001] raise: MysqlBindError.
 	theParam bindValue: -16r80000000.

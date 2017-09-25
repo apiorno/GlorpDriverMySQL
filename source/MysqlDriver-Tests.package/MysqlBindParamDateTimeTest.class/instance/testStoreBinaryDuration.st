@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testStoreBinaryDuration
 	theParam bindValue: (Duration zero).
 	self assert: (MysqlHelper hexStringFromBytes: self storeBinary) = '00'.

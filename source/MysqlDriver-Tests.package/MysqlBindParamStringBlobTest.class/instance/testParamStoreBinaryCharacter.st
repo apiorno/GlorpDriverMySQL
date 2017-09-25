@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamStoreBinaryCharacter
 	theParam bindValue: $A.
 	"lengthcoded + charcter as string"

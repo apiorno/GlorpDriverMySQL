@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testNullParamBind
 	"binding a nil value
 		- should set the param type to NULL"

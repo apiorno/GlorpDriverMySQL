@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testNullBitMapAllButFirstAndLastNull
 	| params cmd |
 

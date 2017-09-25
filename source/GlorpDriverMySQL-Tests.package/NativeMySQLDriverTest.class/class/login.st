@@ -1,7 +1,7 @@
-as yet unclassified
+private protocol
 login
 	^Login new
 		database: self platform new;
-		username: 'sodbxtest';
-		password: 'sodbxtest';
-		connectString: '127.0.0.1_sodbxtest'
+		username: 'root';
+		password: '';
+		connectString: 'localhost_sodbxtest'

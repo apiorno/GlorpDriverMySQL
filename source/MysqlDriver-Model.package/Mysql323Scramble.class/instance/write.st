@@ -1,4 +1,4 @@
-as yet unclassified
+Writing
 write
 	| scrmbl buffStream |
 	buffStream := WriteStream on: (ByteArray new: 256).

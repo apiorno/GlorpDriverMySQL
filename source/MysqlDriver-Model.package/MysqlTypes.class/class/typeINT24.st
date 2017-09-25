@@ -1,4 +1,4 @@
-as yet unclassified
+Accessing
 typeINT24
 	^ TypeINT24
 	

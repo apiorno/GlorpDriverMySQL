@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamFraction
 	theParam bindValue: 100/3.
 	self assert: theParam paramType = MysqlTypes typeDOUBLE.

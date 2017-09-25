@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamBoolean
 	theParam bindValue: true.
 	self assert: (theParam detectParamType = MysqlTypes typeTINY).

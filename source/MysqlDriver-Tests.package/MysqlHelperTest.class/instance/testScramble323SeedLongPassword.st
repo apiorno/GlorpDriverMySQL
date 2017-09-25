@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testScramble323SeedLongPassword
 	self assert: '5554585a434c5459' asUppercase = 
 		(MysqlHelper hexStringFromBytes: ( 

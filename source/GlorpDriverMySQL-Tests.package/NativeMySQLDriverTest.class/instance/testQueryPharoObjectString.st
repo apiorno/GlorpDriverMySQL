@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testQueryPharoObjectString
 	| result |
 	result := connection basicExecuteSQLString: 'select UPPER("yolo")' .

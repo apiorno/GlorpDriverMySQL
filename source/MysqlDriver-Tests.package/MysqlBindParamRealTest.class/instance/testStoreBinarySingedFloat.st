@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testStoreBinarySingedFloat
 	theParam bindValue: -65.0.
 	ByteArray streamContents: [:strm | 

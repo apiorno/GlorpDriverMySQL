@@ -1,4 +1,4 @@
-writing
+Writing
 writePacketData: data 
 	| pkt nextPktStart dataLen |
 	

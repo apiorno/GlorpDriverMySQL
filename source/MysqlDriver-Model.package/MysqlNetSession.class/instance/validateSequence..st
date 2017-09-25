@@ -1,3 +1,3 @@
-sequence numbering
+Testing
 validateSequence: pktNumber 
 	^ pktNumber = nextPacketNumber

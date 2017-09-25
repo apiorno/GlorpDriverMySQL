@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamStoreBinaryText
 	theParam bindValue: (Text fromString: 'This is a text').
 	"lengthcoded + string bytes"

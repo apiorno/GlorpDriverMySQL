@@ -1,4 +1,4 @@
-cursor
+Executing
 nextRow
 		
 	(self rows isEmptyOrNil and: [self hasOpenCursor and: [self hasLastRowSent not]])

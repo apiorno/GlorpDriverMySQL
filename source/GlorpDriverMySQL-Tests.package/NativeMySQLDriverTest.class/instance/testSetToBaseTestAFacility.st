@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testSetToBaseTestAFacility
 	super testSetToBaseTestAFacility.
 	PharoDatabaseAccessor DefaultDriver: self class nativeDriver.

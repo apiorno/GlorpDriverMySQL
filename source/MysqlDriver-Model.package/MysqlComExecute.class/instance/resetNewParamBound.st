@@ -1,4 +1,4 @@
-as yet unclassified
+Initialization
 resetNewParamBound
 	params do: [:each | each resetReboundFlag]
 	

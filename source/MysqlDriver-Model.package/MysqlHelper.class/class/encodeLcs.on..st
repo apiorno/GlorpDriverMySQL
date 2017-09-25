@@ -1,4 +1,4 @@
-as yet unclassified
+Converting
 encodeLcs: bytes on: aStream
 	| len |
 	len := bytes size .

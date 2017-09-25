@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamDateTime
 	theParam bindValue: DateAndTime current.
 	self assert: (theParam detectParamType = MysqlTypes typeDATETIME).

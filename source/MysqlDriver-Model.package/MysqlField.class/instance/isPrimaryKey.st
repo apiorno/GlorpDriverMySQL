@@ -1,4 +1,4 @@
-as yet unclassified
+Testing
 isPrimaryKey
 	^ (flags bitAnd: PrimaryKeyFlag) = PrimaryKeyFlag  
 	

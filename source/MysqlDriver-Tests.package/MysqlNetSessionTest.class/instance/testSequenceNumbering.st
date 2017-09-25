@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testSequenceNumbering
 	self assert: (session getSequence = 0) description: '0 right after creation'.
 	self assert: (session validateSequence: 0).

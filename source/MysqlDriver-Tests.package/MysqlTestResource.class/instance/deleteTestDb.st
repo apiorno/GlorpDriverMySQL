@@ -1,4 +1,4 @@
-as yet unclassified
+Actions
 deleteTestDb
 	| resp |
 	resp := conn query: 'drop database if exists ', self class dbName.

@@ -1,4 +1,4 @@
-as yet unclassified
+Parsing
 parse
 	fieldCount := inStream next.
 	warningCount := inStream next + (inStream next bitShift: 8).

@@ -1,4 +1,4 @@
-as yet unclassified
+Testing
 gotEof
 	^ (MysqlPacket from: session peek) isEof 
 	

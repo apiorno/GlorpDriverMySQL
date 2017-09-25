@@ -1,4 +1,4 @@
-accessing
+Accessing
 changeUser: connSpec 
 	| com scrmbl |
 	self assertConnection.

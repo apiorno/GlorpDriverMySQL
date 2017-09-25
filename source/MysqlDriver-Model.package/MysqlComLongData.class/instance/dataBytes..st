@@ -1,4 +1,4 @@
-as yet unclassified
+Accessing
 dataBytes: aByteArray
 	dataBytes := aByteArray 
 	

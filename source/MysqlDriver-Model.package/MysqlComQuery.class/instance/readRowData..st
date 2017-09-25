@@ -1,4 +1,4 @@
-as yet unclassified
+Reading
 readRowData: fieldCount 
 	| respRows row |
 	respRows := OrderedCollection new.

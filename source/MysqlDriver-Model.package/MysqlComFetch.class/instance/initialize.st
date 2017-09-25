@@ -1,4 +1,4 @@
-as yet unclassified
+Initialization
 initialize
 	super initialize.
 	mapResultsToNativeTypes := true

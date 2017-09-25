@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testStoreBinarySignedDouble
 	theParam bindValue: -123456789123456789.123456789.
 	ByteArray streamContents: [:strm | 

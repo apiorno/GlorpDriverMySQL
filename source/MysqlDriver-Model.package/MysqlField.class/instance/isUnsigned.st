@@ -1,4 +1,4 @@
-as yet unclassified
+Testing
 isUnsigned
 	^ (flags bitAnd: UnsignedFlag) = UnsignedFlag 
 	

@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamDate
 	theParam bindValue: (Date fromString: '06-21-2011').
 	self assert: (theParam detectParamType = MysqlTypes typeDATE).

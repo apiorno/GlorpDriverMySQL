@@ -1,4 +1,4 @@
-as yet unclassified
+Reading
 readPrepareOkay
 	| prepOkay params columns paramEof columnEof indx |
 	

@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testStoreBinaryUnsignedFloat
 	theParam bindValue: 65.0.
 	ByteArray streamContents: [:strm | 

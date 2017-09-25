@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamInLongIntRange
 	theParam bindValue: -16r80000000.
 	self assert: (theParam paramType = MysqlTypes typeLONG).

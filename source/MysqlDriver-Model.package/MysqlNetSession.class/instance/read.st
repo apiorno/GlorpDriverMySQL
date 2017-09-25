@@ -1,4 +1,4 @@
-reading
+Reading
 read
 	| data |
 	"Return packet from look ahead buffer if any. Clear look ahead buffer"

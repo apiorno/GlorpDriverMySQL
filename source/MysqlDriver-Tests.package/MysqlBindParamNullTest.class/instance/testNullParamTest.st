@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testNullParamTest
 	"binding a nil value
 		- should return true when tested for type NULL

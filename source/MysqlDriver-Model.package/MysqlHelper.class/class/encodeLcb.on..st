@@ -1,4 +1,4 @@
-as yet unclassified
+Converting
 encodeLcb: value on: aStream 
 	value < -1 ifTrue: 
 		[ self error: 'Can not encode value' , value asString , ' to length coded binary' ].

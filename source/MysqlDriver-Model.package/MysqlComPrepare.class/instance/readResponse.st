@@ -1,4 +1,4 @@
-as yet unclassified
+Reading
 readResponse
 	| resp |
 	resp := MysqlPacket from: session peek.

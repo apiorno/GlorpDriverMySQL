@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamOutOfShortIntRange
 	theParam bindValue: -16r8001.
 	self deny: (theParam paramType = MysqlTypes typeSHORT).

@@ -1,4 +1,4 @@
-as yet unclassified
+Writing
 send323Scramble: seed password: password
 	| scrmblPkt |
 	scrmblPkt := Mysql323Scramble new.

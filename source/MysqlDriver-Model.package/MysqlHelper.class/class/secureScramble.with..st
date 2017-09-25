@@ -1,4 +1,4 @@
-as yet unclassified
+Converting
 secureScramble: seed with: password 
 
 	| sha1 hashStage1 hashStage2 hash3 reply |

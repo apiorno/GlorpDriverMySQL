@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testHash
 	self 
 		assert: #(1345345333 305419889 ) = (MysqlHelper hash: '')

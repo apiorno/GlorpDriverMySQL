@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testReadLongInt
 	| aStream reader |
 	aStream := ReadWriteStream on: ByteArray new.

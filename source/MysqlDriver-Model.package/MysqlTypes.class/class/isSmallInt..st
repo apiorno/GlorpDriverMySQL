@@ -1,4 +1,4 @@
-as yet unclassified
+Testing
 isSmallInt: type
 	^ type = TypeSHORT
 	

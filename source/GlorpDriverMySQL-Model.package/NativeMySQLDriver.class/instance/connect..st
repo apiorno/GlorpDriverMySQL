@@ -1,4 +1,4 @@
-glorp-API
+Glorp-API
 connect: aLogin
 
 	| connectionSpec |

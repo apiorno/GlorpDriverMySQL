@@ -1,4 +1,4 @@
-as yet unclassified
+Connection
 connectToServer
 	| resp |
 	conn := MysqlDriver new.

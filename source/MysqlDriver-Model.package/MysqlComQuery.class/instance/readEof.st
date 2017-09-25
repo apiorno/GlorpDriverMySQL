@@ -1,3 +1,3 @@
-as yet unclassified
+Reading
 readEof
 	^ MysqlEof from: session read

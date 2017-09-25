@@ -1,4 +1,4 @@
-as yet unclassified
+Parsing
 parse
 	catalog := (self decodeLcsFrom: inStream) asString.
 	db := (self decodeLcsFrom: inStream) asString.

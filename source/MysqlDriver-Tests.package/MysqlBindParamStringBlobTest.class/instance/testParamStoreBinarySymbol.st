@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamStoreBinarySymbol
 	theParam bindValue: #hello.
 	"lengthcoded + string bytes"

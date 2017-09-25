@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamInTinyIntRange
 	theParam bindValue: -128.
 	self assert: (theParam paramType = MysqlTypes typeTINY).

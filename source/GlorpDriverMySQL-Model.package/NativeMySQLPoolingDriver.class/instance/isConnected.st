@@ -1,3 +1,3 @@
-connection-pooling
+Connection-Pooling
 isConnected
 	^ true

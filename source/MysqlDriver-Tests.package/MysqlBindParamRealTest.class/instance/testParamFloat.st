@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamFloat
 	theParam bindValue: 65.0.
 	self assert: theParam paramType = MysqlTypes typeFLOAT.

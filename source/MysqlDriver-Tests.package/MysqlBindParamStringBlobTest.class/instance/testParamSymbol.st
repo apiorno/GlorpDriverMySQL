@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamSymbol
 	theParam bindValue: #'Symbols are special'.
 	self assert: (theParam detectParamType = MysqlTypes typeVARSTRING).

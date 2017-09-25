@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamCharacter
 	theParam bindValue: $A.
 	self assert: (theParam detectParamType = MysqlTypes typeSTRING).

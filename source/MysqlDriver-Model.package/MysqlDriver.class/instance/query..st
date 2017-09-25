@@ -1,4 +1,4 @@
-accessing
+Accessing
 query: queryString
 	| qry results |
 

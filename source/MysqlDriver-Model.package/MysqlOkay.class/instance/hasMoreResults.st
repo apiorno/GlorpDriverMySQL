@@ -1,4 +1,4 @@
-as yet unclassified
+Testing
 hasMoreResults
 	^ (serverStatus bitAnd: MysqlServerStatus moreResultsExist) ~= 0
 	

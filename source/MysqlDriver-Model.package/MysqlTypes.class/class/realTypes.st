@@ -1,4 +1,4 @@
-as yet unclassified
+Accessing
 realTypes
 	realTypes ifNil: [
 		realTypes := Array 

@@ -1,4 +1,4 @@
-accessing
+Initialization
 toHost: host andPort: port 
 	| aStream |
 	self resetSequence.

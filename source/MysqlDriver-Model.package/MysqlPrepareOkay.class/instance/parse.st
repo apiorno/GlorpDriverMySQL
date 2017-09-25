@@ -1,4 +1,4 @@
-as yet unclassified
+Parsing
 parse 
 	inStream next.	"always 0, marker for oaky pakcet"
 	stmtId := inStream next + (inStream next bitShift: 8) + 

@@ -1,4 +1,4 @@
-as yet unclassified
+Converting
 decodeLcsFrom: aStream 
 	"parses length coded string"
 	| len |

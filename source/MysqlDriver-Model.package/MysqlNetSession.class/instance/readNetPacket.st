@@ -1,4 +1,4 @@
-reading
+Reading
 readNetPacket
 	| pkt |
 	pkt := MysqlNetPacket new.

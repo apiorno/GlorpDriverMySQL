@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testByteBoundaries
 	row nullBitMap: #(16r84 16r81 16r81 16r81).
 	self assert: (row isColumnNullAt: 1) description: 'Column 1 should be null'.

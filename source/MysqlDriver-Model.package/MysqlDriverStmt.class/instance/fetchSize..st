@@ -1,4 +1,4 @@
-cursor
+accessing
 fetchSize: anInteger 
 	
 	self cursoredFetch: true.

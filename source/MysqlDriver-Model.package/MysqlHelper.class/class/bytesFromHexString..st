@@ -1,4 +1,4 @@
-as yet unclassified
+Converting
 bytesFromHexString: hexString
 	| strm bytes aByte ii high low hexAlphabet |
 	(hexString size \\ 2 = 0) ifFalse: [self error: 'Not proper hex encoding'].

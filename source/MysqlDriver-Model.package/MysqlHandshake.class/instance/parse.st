@@ -1,4 +1,4 @@
-as yet unclassified
+Parsing
 parse 
 	protocolVer := inStream next.
 	serverVer := (inStream upTo: 0) asString.

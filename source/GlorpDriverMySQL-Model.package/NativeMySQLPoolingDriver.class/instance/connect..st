@@ -1,4 +1,4 @@
-connection-pooling
+Connection-Pooling
 connect: aLogin
 
 	self loginCredentials: aLogin.

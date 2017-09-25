@@ -1,3 +1,3 @@
-connection-pooling
+Accessing
 nativeDriver
 	^ self class nativeDriver

@@ -1,3 +1,3 @@
-as yet unclassified
+Initialization
 setUp
 	pwd := MysqlHelper new

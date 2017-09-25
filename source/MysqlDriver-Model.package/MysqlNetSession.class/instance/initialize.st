@@ -1,3 +1,3 @@
-initialize-release
+Initialization
 initialize
 	self resetSequence.

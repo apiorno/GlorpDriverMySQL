@@ -1,4 +1,4 @@
-testing
+Testing
 assertConnection
 	self connected ifFalse: [^ MysqlNoConnectionError signal: 'Driver is not connected'].
 	

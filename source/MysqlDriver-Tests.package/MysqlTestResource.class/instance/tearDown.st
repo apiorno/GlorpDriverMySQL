@@ -1,4 +1,4 @@
-as yet unclassified
+Finalization
 tearDown
 	self disconnecTestConnection.	
 	self deleteTestDb.

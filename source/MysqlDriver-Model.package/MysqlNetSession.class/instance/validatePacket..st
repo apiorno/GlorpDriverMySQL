@@ -1,4 +1,4 @@
-reading
+Reading
 validatePacket: pkt
 	"Validate a network packet unit. Currently we validate the sequence number."
 	"Update sequence if validation passes"

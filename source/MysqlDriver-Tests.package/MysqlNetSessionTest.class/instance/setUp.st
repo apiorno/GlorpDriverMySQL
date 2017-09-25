@@ -1,4 +1,4 @@
-as yet unclassified
+Initialization
 setUp
 	session := MysqlNetSession new.
 	ioStream := ReadWriteStream on: (ByteArray new). "test stream"

@@ -1,4 +1,4 @@
-as yet unclassified
+Tests
 testParamOutOfTinyIntRange
 	theParam bindValue: -129.
 	self deny: (theParam paramType = MysqlTypes typeTINY).

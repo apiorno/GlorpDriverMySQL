@@ -1,3 +1,3 @@
-as yet unclassified
+Testing
 isOkayOrError
 	^ self isOkay or: [self isError]

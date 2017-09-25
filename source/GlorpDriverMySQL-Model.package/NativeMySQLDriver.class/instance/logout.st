@@ -1,4 +1,4 @@
-glorp-API
+Glorp-API
 logout
 
 	connection disconnect .

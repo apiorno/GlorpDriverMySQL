@@ -1,4 +1,4 @@
-as yet unclassified
+Writing
 write
 	| buffStream |
 	buffStream := WriteStream on: ByteArray new.

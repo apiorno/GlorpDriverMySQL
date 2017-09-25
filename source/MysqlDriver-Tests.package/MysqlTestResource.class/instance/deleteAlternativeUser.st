@@ -1,4 +1,4 @@
-as yet unclassified
+Actions
 deleteAlternativeUser
 	| resp |
 	resp := conn query: 'DROP USER ''', self class alternativeUsername, ''';'.

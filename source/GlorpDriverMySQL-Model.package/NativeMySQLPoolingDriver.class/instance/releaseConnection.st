@@ -1,4 +1,4 @@
-connection-pooling
+Connection-Pooling
 releaseConnection
 
 	connection ifNil:[

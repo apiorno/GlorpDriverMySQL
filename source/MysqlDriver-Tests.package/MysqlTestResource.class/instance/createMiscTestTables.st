@@ -1,4 +1,4 @@
-as yet unclassified
+Actions
 createMiscTestTables
 	| resp |
 	self ddlMiscTestTables do: [:each |

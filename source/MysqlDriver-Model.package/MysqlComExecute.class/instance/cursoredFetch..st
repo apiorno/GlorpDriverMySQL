@@ -1,4 +1,4 @@
-as yet unclassified
+Accessing
 cursoredFetch: aBoolean 
 	cursoredFetch := aBoolean
 	

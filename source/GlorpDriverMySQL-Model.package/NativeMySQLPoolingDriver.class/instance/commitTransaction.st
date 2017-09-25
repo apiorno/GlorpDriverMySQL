@@ -1,4 +1,4 @@
-transactions
+Transactions
 commitTransaction
 	isInTransaction := false.
 	[super commitTransaction] ensure:[self releaseConnection].

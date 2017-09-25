@@ -1,4 +1,4 @@
-api
+Api
 acquireConnectionIfError: errorBlock
       | connection |
 

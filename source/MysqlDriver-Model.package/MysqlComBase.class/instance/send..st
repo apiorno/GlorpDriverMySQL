@@ -1,4 +1,4 @@
-as yet unclassified
+Writing
 send: cmd
 	| buffer |
 

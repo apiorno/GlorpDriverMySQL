@@ -1,3 +1,3 @@
-accessing
+Accessing
 length: size
 	length := size

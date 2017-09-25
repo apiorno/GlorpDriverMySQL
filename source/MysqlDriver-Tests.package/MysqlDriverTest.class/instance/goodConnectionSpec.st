@@ -1,4 +1,4 @@
-as yet unclassified
+Test Support
 goodConnectionSpec
 	^ MysqlDriverSpec new
 		host: 'localhost';

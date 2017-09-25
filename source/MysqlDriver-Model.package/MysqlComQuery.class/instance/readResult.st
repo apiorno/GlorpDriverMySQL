@@ -1,4 +1,4 @@
-as yet unclassified
+Reading
 readResult
 	| fields fieldsEof rows rowsEof resultSetHdr pkt |
 	pkt := super readResponse.
