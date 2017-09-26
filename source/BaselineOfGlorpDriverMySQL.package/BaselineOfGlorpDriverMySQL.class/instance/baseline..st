@@ -3,7 +3,9 @@ baseline: spec
 	<baseline>
 	spec
 		for: #common
-		do: [ spec
+		do: [ 
+			self setUpDependenciesFor: spec.
+			spec
 				package: 'GlorpDriverMySQL-Model';
 				package: 'GlorpDriverMySQL-Tests'
 					with: [ spec requires: #('GlorpDriverMySQL-Model') ];
