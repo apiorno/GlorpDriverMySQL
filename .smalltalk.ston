@@ -1,0 +1,18 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'GlorpDriverMySQL',
+      #directory : 'source',
+      #load : [ 'Development' ],
+      #platforms : [  #pharo ]
+    }
+  ],
+  #testing : {
+    #coverage : {
+       #packages : [ 'GlorpDriverMySQL-Model' ]
+    },
+    #include : {  
+       #packages : [ 'GlorpDriverMySQL-Tests' ]
+    }
+  }
+} 
