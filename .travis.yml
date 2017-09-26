@@ -1,0 +1,16 @@
+language: smalltalk
+sudo: false
+
+# Select operating system(s)
+os:
+  - linux
+  
+services:
+  - mysql
+before_install:
+  - mysql -u root -e "SET PASSWORD FOR 'root'@'localhost' = PASSWORD('');"
+  - mysql -e 'CREATE DATABASE IF NOT EXISTS sodbxtest;'
+
+# Select compatible Smalltalk image(s)
+smalltalk:
+- Pharo-6.0
