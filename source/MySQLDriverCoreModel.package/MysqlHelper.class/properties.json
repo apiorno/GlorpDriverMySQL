@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MySQLDriverCoreModel-Helper",
+	"classinstvars" : [
+		"seedOne",
+		"maxValue",
+		"seedTwo"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MysqlHelper",
+	"type" : "normal"
+}

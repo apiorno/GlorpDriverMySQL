@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MysqlComBase",
+	"category" : "MySQLDriverCoreModel-Command",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dataBytes",
+		"statementId",
+		"paramNum"
+	],
+	"name" : "MysqlComLongData",
+	"type" : "normal"
+}

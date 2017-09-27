@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MysqlTestCase",
+	"category" : "MySQLDriverCoreTests-Integ",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MysqlSvrStmtInputTest",
+	"type" : "normal"
+}

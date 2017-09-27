@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MySQLGlorpDriverModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"queue",
+		"loginCredentials",
+		"maxConnections",
+		"logging"
+	],
+	"name" : "NativeMySQLConnectionPool",
+	"type" : "normal"
+}

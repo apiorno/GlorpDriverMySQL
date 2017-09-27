@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"testScramble323LongSeedLongPassword" : "Alvaro 9/27/2017 00:54",
+		"testScramble323SeedLongPassword" : "Alvaro 9/27/2017 00:55",
+		"testBytesFromHexString" : "Alvaro 9/27/2017 00:54",
+		"isLogging" : "ah 4/13/2009 23:57",
+		"testMyRandom" : "ah 10/1/2011 23:55",
+		"testHash" : "ah 5/31/2009 19:38",
+		"testHexStringFromBytes" : "Alvaro 9/27/2017 00:54",
+		"testScramble323LongSeedEmptyPassword" : "Alvaro 9/27/2017 00:54",
+		"testScramble323LongSeedShortPassword" : "Alvaro 9/27/2017 00:54",
+		"setUp" : "ah 5/31/2009 19:38"
+	},
+	"class" : { }
+}

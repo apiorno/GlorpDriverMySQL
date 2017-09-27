@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"testAcceptLongParams" : "Alvaro 9/27/2017 01:01",
+		"testAcceptNullForIntegers" : "Alvaro 9/27/2017 01:02",
+		"testInputTimeTypesNeg" : "Alvaro 9/27/2017 01:03",
+		"testInputParamExpectingNoResultSet" : "Alvaro 9/27/2017 01:02",
+		"testInputParamExpectingResultSet" : "Alvaro 9/27/2017 01:02",
+		"scenarios" : "ah 7/10/2011 00:24",
+		"testAcceptPositiveIntegers" : "Alvaro 9/27/2017 01:02",
+		"testInputTimeTypesNull" : "Alvaro 9/27/2017 01:03",
+		"testNoInputParamExpectingResultSet" : "Alvaro 9/27/2017 01:03",
+		"testAcceptNegativeIntegers" : "Alvaro 9/27/2017 01:01",
+		"testInputTimeTypes" : "Alvaro 9/27/2017 01:03",
+		"testNoInputParamExpectingNoResultSet" : "Alvaro 9/27/2017 01:03"
+	},
+	"class" : { }
+}

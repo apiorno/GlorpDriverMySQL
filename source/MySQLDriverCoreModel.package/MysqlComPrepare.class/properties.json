@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MysqlComBase",
+	"category" : "MySQLDriverCoreModel-Command",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"query"
+	],
+	"name" : "MysqlComPrepare",
+	"type" : "normal"
+}

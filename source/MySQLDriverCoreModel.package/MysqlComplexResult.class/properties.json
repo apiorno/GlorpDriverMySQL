@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MysqlResult",
+	"category" : "MySQLDriverCoreModel-Packet",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MysqlComplexResult",
+	"type" : "normal"
+}

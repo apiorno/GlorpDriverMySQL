@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "ah 3/5/2010 09:24",
+	"super" : "MysqlComplexResult",
+	"category" : "MySQLDriverCoreModel-Packet",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"header",
+		"fields",
+		"fieldsEof",
+		"rows",
+		"rowsEof",
+		"statement"
+	],
+	"name" : "MysqlResultSet",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"setUp" : "ah 5/12/2011 22:33",
+		"testParamDuration" : "Alvaro 9/27/2017 00:48",
+		"testParamTime" : "Alvaro 9/27/2017 00:48",
+		"testParamDate" : "Alvaro 9/27/2017 00:48",
+		"testParamDateTime" : "Alvaro 9/27/2017 00:48",
+		"testStoreBinaryDuration" : "Alvaro 9/27/2017 00:49",
+		"testStoreBinaryDateAndTime" : "Alvaro 9/27/2017 00:48",
+		"storeBinary" : "ah 5/12/2011 22:33",
+		"testStoreBinaryTime" : "Alvaro 9/27/2017 00:49",
+		"testStoreBinaryDate" : "Alvaro 9/27/2017 00:48"
+	},
+	"class" : { }
+}

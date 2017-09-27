@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "MySQLDriverCoreTests-Unit",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"theParam"
+	],
+	"name" : "MysqlBindParamDateTimeTest",
+	"type" : "normal"
+}

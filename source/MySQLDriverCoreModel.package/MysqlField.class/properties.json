@@ -1,0 +1,36 @@
+{
+	"commentStamp" : "",
+	"super" : "MysqlPacket",
+	"category" : "MySQLDriverCoreModel-Packet",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"AutoIncrFlag",
+		"BinaryFlag",
+		"BlobFlag",
+		"EnumFlag",
+		"MultiKeyFlag",
+		"NotNullFlag",
+		"PrimaryKeyFlag",
+		"SetFlag",
+		"UniqueKeyFlag",
+		"UnsignedFlag",
+		"ZeroFillFlag"
+	],
+	"instvars" : [
+		"catalog",
+		"db",
+		"table",
+		"orgTable",
+		"name",
+		"orgName",
+		"charSet",
+		"type",
+		"flags",
+		"default",
+		"decimals",
+		"length"
+	],
+	"name" : "MysqlField",
+	"type" : "normal"
+}

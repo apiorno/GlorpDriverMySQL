@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "MysqlRowData",
+	"category" : "MySQLDriverCoreModel-Packet",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"header",
+		"nullBitMap",
+		"columnDescriptors",
+		"columnValues"
+	],
+	"name" : "MysqlBinRowData",
+	"type" : "normal"
+}

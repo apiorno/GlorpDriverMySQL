@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MysqlDriverError",
+	"category" : "MySQLDriverCoreModel-Exception",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MysqlUnsupportedProtocolError",
+	"type" : "normal"
+}
