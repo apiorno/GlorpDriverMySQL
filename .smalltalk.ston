@@ -9,10 +9,10 @@ SmalltalkCISpec {
   ],
   #testing : {
     #coverage : {
-       #packages : [ 'GlorpDriverMySQL-Model' ]
+       #packages : [ 'MySQL*Model' ]
     },
     #include : {  
-       #packages : [ 'GlorpDriverMySQL-Tests' ]
+       #packages : [ 'MySQL*Tests' ]
     }
   }
 } 
