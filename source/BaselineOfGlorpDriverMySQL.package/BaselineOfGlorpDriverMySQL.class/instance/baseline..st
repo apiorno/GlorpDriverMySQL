@@ -6,10 +6,10 @@ baseline: spec
 		do: [ 
 			self setUpDependenciesFor: spec.
 			spec
-				package: 'MySQLDriverCoreModel';
+				package: 'MySQLDriverCoreModel'with: [ spec requires: #('Glorp') ];
 				package: 'MySQLDriverCoreTests'
 					with: [ spec requires: #('MySQLDriverCoreModel') ];
-				package: 'MySQLGlorpDriverModel';
+				package: 'MySQLGlorpDriverModel'with: [ spec requires: #('Glorp') ];
 				package: 'MySQLGlorpDriverTests' with: [ spec requires: #('MySQLGlorpDriverModel') ].
 			spec
 				group: 'Deployment' with: #('MySQLDriverCoreModel' 'MySQLGlorpDriverModel');
