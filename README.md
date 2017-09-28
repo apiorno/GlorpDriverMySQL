@@ -10,7 +10,7 @@ Glorp Drive for MySql migrated from [ThomasHeniart][] and Update to work fine on
 ```smalltalk
 Metacello new
   baseline: 'GlorpDriverMySQL';
-  repository: 'github://alvarop100/GlorpDriverMySQL:master/source';
+  repository: 'github://apiorno/GlorpDriverMySQL:master/source';
   load
 ```
 
