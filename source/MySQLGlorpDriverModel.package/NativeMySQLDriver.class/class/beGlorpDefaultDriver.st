@@ -1,7 +1,3 @@
 Initialization
 beGlorpDefaultDriver
-
-	(Smalltalk at: #PharoDatabaseAccessor)
-		DefaultDriver:
-			self .
-	NativeMySQLDriverTest new testSetToBaseTestAFacility
+	(Smalltalk at: #PharoDatabaseAccessor) DefaultDriver: self .
