@@ -8,7 +8,7 @@ testInputTimeTypes
 				prepare:
 					'update testTimes
 			set dateValue = ?, timeValue = ?, dateTimeValue = ?,
-				timeStampValue = ?, yearValue = ?
+				yearValue = ?
 			where id = 1'.
 			self assert: prep isOkay.
 			stmtId := prep prepareOkay stmtHandlerId.
@@ -17,8 +17,7 @@ testInputTimeTypes
 				at: 1 put: (MysqlBindParam withValue: '2011-11-15');
 				at: 2 put: (MysqlBindParam withValue: '17:28');
 				at: 3 put: (MysqlBindParam withValue: '2010-10-31 22;11:33');
-				at: 4 put: (MysqlBindParam withValue: '2017-09-26 20:52:00');
-				at: 5 put: (MysqlBindParam withValue: 2020).
+				at: 4 put: (MysqlBindParam withValue: 2020).
 			stmt := MysqlDriverStmt onConnection: conn.
 			stmt
 				stmtId: stmtId;
