@@ -1,4 +1,0 @@
-Accessing
-table
-	^ table
-	

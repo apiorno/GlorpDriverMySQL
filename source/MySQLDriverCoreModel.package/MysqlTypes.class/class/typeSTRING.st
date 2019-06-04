@@ -1,4 +1,0 @@
-Accessing
-typeSTRING
-	^ TypeSTRING
-	

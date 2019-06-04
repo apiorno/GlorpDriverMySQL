@@ -1,4 +1,0 @@
-Glorp-API
-connectionClass
-
-	^ MysqlDriver

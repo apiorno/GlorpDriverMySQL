@@ -1,3 +1,0 @@
-Defaults
-maxNetPacketLength
-	^ MysqlNetPacket maxLength

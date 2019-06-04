@@ -1,4 +1,0 @@
-Accessing
-prepareOkay
-	^ prepareOkay
-	

@@ -1,4 +1,0 @@
-Accessing
-serverStatus
-	^ fieldsEof serverStatus
-	

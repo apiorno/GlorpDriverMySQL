@@ -1,3 +1,0 @@
-Writing
-write
-	self subclassResponsibility 

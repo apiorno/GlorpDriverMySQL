@@ -1,3 +1,0 @@
-Connection-Pooling
-isConnected
-	^ true

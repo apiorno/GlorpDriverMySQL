@@ -1,4 +1,0 @@
-Finalization
-tearDown
-	self cleanUpFixtureData
-	

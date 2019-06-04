@@ -1,4 +1,0 @@
-Reading
-readResponse
-	^ nil
-	

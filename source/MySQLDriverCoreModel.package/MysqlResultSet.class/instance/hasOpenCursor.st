@@ -1,4 +1,0 @@
-Testing
-hasOpenCursor
-	^ fieldsEof hasOpenCursor 
-	

@@ -1,3 +1,0 @@
-private
-handshakeInfo
-	^ handshakeInfo 

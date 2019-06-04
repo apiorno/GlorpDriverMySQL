@@ -1,3 +1,0 @@
-Accessing
-number
-	^ number

@@ -1,3 +1,0 @@
-Accessing
-commandCode
-	self subclassResponsibility 

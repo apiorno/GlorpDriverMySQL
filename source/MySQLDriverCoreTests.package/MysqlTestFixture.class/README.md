@@ -1,1 +1,0 @@
-MySQL tes fixtures resource

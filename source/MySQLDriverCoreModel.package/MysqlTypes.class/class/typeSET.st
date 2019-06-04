@@ -1,4 +1,0 @@
-Accessing
-typeSET
-	^ TypeSET
-	

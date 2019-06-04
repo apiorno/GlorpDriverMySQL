@@ -1,3 +1,0 @@
-Accessing
-commandArg
-	self subclassResponsibility 

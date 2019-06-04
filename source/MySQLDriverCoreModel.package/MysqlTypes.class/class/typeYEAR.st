@@ -1,4 +1,0 @@
-Accessing
-typeYEAR
-	^ TypeYEAR
-	

@@ -1,3 +1,0 @@
-Defaults
-maxLength
-	^ MaxPacketLength

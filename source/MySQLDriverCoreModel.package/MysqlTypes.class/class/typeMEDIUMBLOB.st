@@ -1,4 +1,0 @@
-Accessing
-typeMEDIUMBLOB
-	^ TypeMEDIUMBLOB
-	
