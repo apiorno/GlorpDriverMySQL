@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/logos/310x308.jpg">
+<p align="center"><img src="assets/logos/218x218.webp">
  <h1 align="center">GlorpDriverMySQL</h1>
   <p align="center">
     Glorp Drive for MySql migrated from [ThomasHeniart][] and Update to work fine on Phar 6.0 and older.
