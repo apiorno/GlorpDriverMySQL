@@ -6,7 +6,7 @@ You can load **GlorpDriverMySQL** evaluating:
 ```smalltalk
 Metacello new
   baseline: 'GlorpDriverMySQL';
-  repository: 'github://apiorno/GlorpDriverMySQL:master/source';
+  repository: 'github://apiorno/GlorpDriverMySQL:release-candidate/source';
   load
 ```
 >  Change `release-candidate` to some released version if you want a pinned version
